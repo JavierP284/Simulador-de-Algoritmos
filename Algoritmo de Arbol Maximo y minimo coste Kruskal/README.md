@@ -1,4 +1,4 @@
-## 🌳 ¿Qué es un Árbol de Mínimo y Máximo Costo?
+## ¿Qué es un Árbol de Mínimo y Máximo Costo?
 
 En teoría de grafos, un **árbol de expansión** es una subestructura que conecta todos los nodos de un grafo sin formar ciclos, utilizando solo las aristas necesarias. Cuando se busca optimizar el costo total de las conexiones, surgen dos conceptos importantes:
 
